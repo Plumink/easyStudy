@@ -1,0 +1,2 @@
+# easyStudy
+Graduation project
